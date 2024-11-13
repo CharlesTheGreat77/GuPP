@@ -23,7 +23,7 @@
 ### Install
     git clone https://github.com/yourusername/gupp.git
     cd gupp
-    go build -o gupp
+    go build -o gupp main.go
     sudo mv gupp /usr/local/bin
 
 ## 🔧 Usage
